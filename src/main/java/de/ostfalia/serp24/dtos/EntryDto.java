@@ -20,4 +20,5 @@ public class EntryDto {
     private Long project_id;
 
     private Long consult_id;
+    private int entry;
 }
